@@ -12,11 +12,11 @@ function FinishScreen({ points, maxPossiblePoints, highscore, dispatch }) {
   return (
     <>
       <p className="result">
-        <span>{emoji}</span> You scored <strong>{points}</strong> out of{" "}
-        {maxPossiblePoints} ({Math.ceil(percentage)}%)
+        <span>{emoji}</span> Você marcou <strong>{points}</strong> de{" "}
+        {maxPossiblePoints} pontos ({Math.ceil(percentage)}%)
       </p>
-      <p className="highscore">(Highscore: {highscore} points)</p>
-      {/* <button
+      <p className="highscore">(Maior pontuação: {highscore} pontos)</p>
+      <button
         className="btn btn-ui"
         onClick={() =>
           dispatch({
@@ -24,8 +24,8 @@ function FinishScreen({ points, maxPossiblePoints, highscore, dispatch }) {
           })
         }
       >
-        Reiniciar Quiz
-      </button> */}
+        Reiniciar o Quiz
+      </button>
     </>
   );
 }
