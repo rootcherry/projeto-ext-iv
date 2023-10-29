@@ -5,20 +5,17 @@
   --color-light: #f1f3f5;
 
   --color-theme: #1098ad;
-  --color-accent: #ffa94d; 
-  */
+  --color-accent: #ffa94d; */
+
   --color-darkest: #134218;
   --color-dark: #21742b;
   --color-medium: #44ae51;
   --color-light: #d5edd8;
 
-  /* --color-theme: #1098ad; */
   --color-theme: #74a12e;
   --color-accent: #eaf6eb;
 }
 
-/* @import url("https://fonts.googleapis.com/css2?family=Inter&display=swap"); */
-/* @import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Inter&family=Roboto&display=swap"); */
 @import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Inter&display=swap");
 
 * {
@@ -64,7 +61,7 @@ body {
   font-size: 1.6rem;
   font-weight: 500;
   padding: 2rem;
-  background-color: #495057;
+  background-color: var(--color-dark);
   border-radius: 100px;
 }
 
@@ -73,7 +70,7 @@ img {
 }
 
 h1 {
-  font-family: "Codystar";
+  font-family: "ABeeZee";
   font-size: 5.6rem;
 }
 
@@ -158,7 +155,7 @@ progress {
 .options {
   display: flex;
   flex-direction: column;
-  gap: 1.5rem;
+  gap: 1.2rem;
   margin-bottom: 3.2rem;
 }
 

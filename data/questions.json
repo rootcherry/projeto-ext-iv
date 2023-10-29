@@ -32,68 +32,6 @@
       ],
       "correctOption": 1,
       "points": 10
-    },
-    {
-      "question": "Quais são os pilares da sustentabilidade?",
-      "options": [
-        "urbanística, ambiental e social",
-        "religiosa, econômica e turística",
-        "o ambiente, a economia e a sociedade",
-        "local, cultural e socioambiental"
-      ],
-      "correctOption": 2,
-      "points": 10
-    },
-    {
-      "question": "Em quanto tempo os copos e sacos plásticos se decompõe na natureza?",
-      "options": ["200 a 450 anos", "300 anos", "10 anos", "250 anos"],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "Qual tipo de lixo a seguir não é orgânico?",
-      "options": [
-        "casca de ovo",
-        "sacola plática",
-        "cascas de legumes",
-        "bagaço da laranja"
-      ],
-      "correctOption": 1,
-      "points": 10
-    },
-    {
-      "question": "Em qual lixeira devemos descartar os metais?",
-      "options": ["verde", "marrom", "branco", "amarelo"],
-      "correctOption": 3,
-      "points": 10
-    },
-    {
-      "question": "Qual das alternativas abaixo é um exemplo de reciclagem?",
-      "options": [
-        "acumulo de matéria-prima",
-        "reutilização de garrafa pet",
-        "coleta seletiva",
-        "incineração"
-      ],
-      "correctOption": 2,
-      "points": 10
-    },
-    {
-      "question": "Qual é a cor da lixeira de lixo orgânico?",
-      "options": ["verde", "marrom", "amarelo", "branco"],
-      "correctOption": 1,
-      "points": 10
-    },
-    {
-      "question": "O que são produtos biodegradáveis?",
-      "options": [
-        "Produtos que se decompõe facilmente com material sintético",
-        "Produtos que se decompõe facilmente compostos por elementos orgânicos",
-        "Produtos produzidos por meio artesanal que não agridem o meio ambiente",
-        "Produtos que se decompõe facilmente compostos por elementos químicos"
-      ],
-      "correctOption": 1,
-      "points": 10
     }
   ]
 }
