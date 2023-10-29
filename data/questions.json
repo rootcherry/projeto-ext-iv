@@ -3,21 +3,21 @@
     {
       "question": "Sustentabilidade pode ser definida como:",
       "options": [
-        "a capacidade de desenvolvimento econômico a qualquer custo.",
-        "o desenvolvimento do presente, mas garantindo o futuro das futuras gerações.",
-        "uma forma de melhorar a qualidade de vida com aumento do salário mínimo.",
-        "escola pública de qualidade com ensino de educação ambiental."
+        "a capacidade de desenvolvimento econômico a qualquer custo",
+        "o desenvolvimento do presente, mas garantindo o futuro das futuras gerações",
+        "uma forma de melhorar a qualidade de vida com aumento do salário mínimo",
+        "escola pública de qualidade com ensino de educação ambiental"
       ],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "Assinale qual alternativa apresenta corretamente uma ação sustentável.",
+      "question": "Assinale qual alternativa apresenta corretamente uma ação sustentável:",
       "options": [
         "Separar os resíduos domésticos para a coleta seletiva",
-        "Utilizar sacolas plásticas nas compras do supermercado.",
-        "Despejar resíduos de esgotamento doméstico nos rios.",
-        "Limpar os passeios públicos com água corrente."
+        "Utilizar sacolas plásticas nas compras do supermercado",
+        "Despejar resíduos de esgotamento doméstico nos rios",
+        "Limpar os passeios públicos com água corrente"
       ],
       "correctOption": 0,
       "points": 10
@@ -36,10 +36,10 @@
     {
       "question": "Quais são os pilares da sustentabilidade?",
       "options": [
-        "urbanística, ambiental e social.",
-        "religiosa, econômica e turística.",
-        "o ambiente, a economia e a sociedade.",
-        "local, cultural e socioambiental."
+        "urbanística, ambiental e social",
+        "religiosa, econômica e turística",
+        "o ambiente, a economia e a sociedade",
+        "local, cultural e socioambiental"
       ],
       "correctOption": 2,
       "points": 10
@@ -53,43 +53,44 @@
     {
       "question": "Qual tipo de lixo a seguir não é orgânico?",
       "options": [
-        "casca de ovo.",
-        "sacola plática.",
-        "cascas de legumes.",
-        "bagaço da laranja."
+        "casca de ovo",
+        "sacola plática",
+        "cascas de legumes",
+        "bagaço da laranja"
       ],
       "correctOption": 1,
       "points": 10
     },
     {
       "question": "Em qual lixeira devemos descartar os metais?",
-      "options": ["verde.", "marrom.", "branco.", "amarelo."],
+      "options": ["verde", "marrom", "branco", "amarelo"],
       "correctOption": 3,
       "points": 10
     },
     {
       "question": "Qual das alternativas abaixo é um exemplo de reciclagem?",
       "options": [
-        "acumulo de matéria-prima.",
-        "reutilização de garrafa pet.",
-        "coleta seletiva.",
-        "incineração."
+        "acumulo de matéria-prima",
+        "reutilização de garrafa pet",
+        "coleta seletiva",
+        "incineração"
       ],
       "correctOption": 2,
       "points": 10
     },
     {
       "question": "Qual é a cor da lixeira de lixo orgânico?",
-      "options": ["verde.", "marrom.", "amarelo.", "branco."],
+      "options": ["verde", "marrom", "amarelo", "branco"],
       "correctOption": 1,
       "points": 10
     },
     {
       "question": "O que são produtos biodegradáveis?",
       "options": [
-        "Produtos que se decompõe facilmente com material sintético.",
-        "Produtos que se decompõe facilmente compostos por elementos orgânicos.",
-        "Produtos produzidos por meio artesanal que não agridem o meio ambiente."
+        "Produtos que se decompõe facilmente com material sintético",
+        "Produtos que se decompõe facilmente compostos por elementos orgânicos",
+        "Produtos produzidos por meio artesanal que não agridem o meio ambiente",
+        "Produtos que se decompõe facilmente compostos por elementos químicos"
       ],
       "correctOption": 1,
       "points": 10
