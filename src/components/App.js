@@ -11,6 +11,8 @@ import FinishScreen from "./FinishScreen";
 import Footer from "./Footer";
 import Timer from "./Timer";
 
+const apiUrl = process.env.REACT_APP_API_URL;
+
 const SECS_PER_QUESTION = 30;
 
 const initialState = {
@@ -65,13 +67,13 @@ function reducer(state, action) {
       };
     case "restart":
       return { ...initialState, questions: state.questions, status: "ready" };
-    default:
     case "tick":
       return {
         ...state,
         secondsRemaining: state.secondsRemaining - 1,
         status: state.secondsRemaining === 0 ? "finished" : state.status,
       };
+    default:
       throw new Error("Ação desconhecida");
   }
 }
@@ -88,7 +90,7 @@ function App() {
   );
 
   useEffect(function () {
-    fetch("http://localhost:9000/questions")
+    fetch(`${apiUrl}`)
       .then((res) => res.json())
       .then((data) => dispatch({ type: "dataReceived", payload: data }))
       .catch((err) => dispatch({ type: "dataFailed" }));
